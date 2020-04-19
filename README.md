@@ -1,13 +1,8 @@
 # Quick--3DsMAX-Script
-
-   ____          _        __      __     
-  / __ \ __  __ (_)_____ / /__   / /     
- / / / // / / // // ___// //_/  / /      
-/ /_/ // /_/ // // /__ / ,<    /_/       
-\___\_\\__,_//_/ \___//_/|_|  (_)                  
-                                                                                                                   
+                                                                                                              
 Quick! is a collection of scripts for 3DS MAX that centers around reducing the amount of clicks needed for repetitive tasks.
 ---------------------------------------------------------------------------------------------------------------------
+
 Quick! (QuickTools)
 
 (Containing scripts made by myself and also other people, to find out more go to the credits menu)
@@ -18,7 +13,9 @@ TestedOn: 3DS MAX 2020
 Initial Creation Date = 19/04/2020
 
 ---------------------------------------------------------------------------------------------------------------------
+
 !!!!![ALWAYS make sure there is no other QuickTools macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!!!
+
 ---------------------------------------------------------------------------------------------------------------------
 HOW TO INSTALL:
 
@@ -39,6 +36,7 @@ HOW TO INSTALL:
 8. SAVE YOUR SHORCUT (I have mine saved to a file in DOCUMENTS but it can be wherever) 
 
 9. Click *Your Custom Shortcut* and you're good to go!  
+
 ---------------------------------------------------------------------------------------------------------------------
 [ISSUES AND CONTACT INFO:]
 
@@ -59,7 +57,8 @@ NOTE: This is a compiled version, the original version is split into many sepera
 --Solution: N/A for now
 
 3.How to move UI = Not so much a bug but to move the UI you have to click the small gap next to the 3DS MAX button. Im gonna try and fix this in another update.
----Solution: N/A for now
+--Solution: N/A for now
+
 ---------------------------------------------------------------------------------------------------------------------
 [CREDITS:]
 
