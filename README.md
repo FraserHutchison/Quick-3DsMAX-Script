@@ -50,6 +50,7 @@ NOTE: This is a compiled version, the original version is split into many sepera
 
 ---------------------------------------------------------------------------------------------------------------------
 [BUGS]
+
 1. BatchImport = If you opne BatchImport then close it, you will get an error and the MaxScript Editor will appear
 --Solution for now: close the MaxScript Editor and also CustomTools, then you are free to open it again using your cutsom shortcut.
 
