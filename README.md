@@ -3,7 +3,7 @@ You only need Quick!_V1 if you just want the Quick! (QuickTools) 3DS MAX script
 
 ![](Images/Quick_v1_Showcase.jpg)
 
-Quick! is a collection of scripts for 3DS MAX that centers around reducing the amount of clicks needed for repetitive tasks.
+Quick! is a collection of scripts for 3DS MAX that centres around reducing the amount of clicks needed for repetitive tasks.
 ---------------------------------------------------------------------------------------------------------------------
 
 Quick! (QuickTools)
@@ -47,16 +47,16 @@ Twitter: @HutchisonFraser
 "Feel free to contact me about any issues, however I may not always be able to solve them."
 "If you want to try and fix any issues feel free.
 
-NOTE: "This is a compiled version, the original version is split into many seperate scripts to make it easier for development and makes use of the *include* contruct. I tried to make a .mzp version however it has proven to be a real pain and for now I have not bothered as teh compiled one works just fine. PLEASE READ the .ReadMe in the uncompiled scripts if you are going to use them"
+NOTE: "This is a compiled version, the original version is split into many separate scripts to make it easier for development and makes use of the *include* construct. I tried to make a .mzp version however it has proven to be a real pain and for now I have not bothered as the compiled one works just fine. PLEASE READ the .ReadMe in the uncompiled scripts if you are going to use them"
 
 
 ---------------------------------------------------------------------------------------------------------------------
 [BUGS]
 
-	1. BatchImport = If you opne BatchImport then close it, you will get an error and the MaxScript Editor will appear
---Solution for now: close the MaxScript Editor and also CustomTools, then you are free to open it again using your cutsom shortcut.
+	1. BatchImport = If you open BatchImport then close it, you will get an error and the MaxScript Editor will appear
+--Solution for now: close the MaxScript Editor and also CustomTools, then you are free to open it again using your custom shortcut.
 
-	2.Smart Stitch = Sometimes the smart sticth doesnt work the best, I am unsure why. For the most part is works fine.
+	2.Smart Stitch = Sometimes the smart stitch doesn't work the best, I am unsure why. For the most part is works fine.
 --Solution: N/A for now
 
 	3.How to move UI = Not so much a bug but to move the UI you have to click the small gap next to the 3DS MAX button. Im gonna try and fix this in another update.
