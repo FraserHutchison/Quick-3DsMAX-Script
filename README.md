@@ -82,18 +82,20 @@ SMART STITCH: =
   Creator: Chamfer Zone - Tim Bergholz
  
 NORMALIZE UVs: =
-  original script by PAUL GREVESON
-	http://www.greveson.co.uk/scripts/normalizeUvScale.ms
-THEN >
-	TEX TOOLS 
-	http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
-	http://renderhjs.net/textools/3dsMax.html
+	  original script by PAUL GREVESON
+		http://www.greveson.co.uk/scripts/normalizeUvScale.ms
+	THEN >
+		TEX TOOLS 
+		http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
+		http://renderhjs.net/textools/3dsMax.html
  
 ALIGN: = 
-  TEX TOOLS 
-	  http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
-	  http://renderhjs.net/textools/3dsMax.html
+ 	 TEX TOOLS 
+		  http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
+		  http://renderhjs.net/textools/3dsMax.html
     
 MAKE IT GREY!: =
-  Creator: Hosein Afshar : http://www.scriptspot.com/3ds-max/scripts/make-it-gray-please
+ 	 Creator: Hosein Afshar : http://www.scriptspot.com/3ds-max/scripts/make-it-gray-please
   
+SCRIPT SPOT: = 
+	For everything MAX Script related : http://www.scriptspot.com/
