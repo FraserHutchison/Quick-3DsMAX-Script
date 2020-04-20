@@ -7,7 +7,7 @@ Quick! is a collection of scripts for 3DS MAX that centres around reducing the a
 (Please keep in mind that there may be bugs I dont know about so if you find any let know!)
 ---------------------------------------------------------------------------------------------------------------------
 
-Quick! (QuickTools)
+[Quick! (QuickTools)]
 
 (Containing scripts made by myself and also other people, to find out more go to the credits menu)
 
@@ -25,7 +25,7 @@ Initial Creation Date = 19/04/2020
 
 	!!!![ALWAYS make sure there is only 1 QuickTools macro under> \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! 
 ---------------------------------------------------------------------------------------------------------------------
-HOW TO INSTALL/USE:
+[HOW TO INSTALL/USE:]
 
 (If you have not installed Quick! before, skip to step 5!)
 
