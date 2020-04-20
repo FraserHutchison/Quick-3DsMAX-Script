@@ -81,9 +81,9 @@ THEN >
  
 ALIGN: = 
   TEX TOOLS 
-  http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
-	  ttp://renderhjs.net/textools/3dsMax.html
+	  http://www.scriptspot.com/3ds-max/scripts/textools-toolbox-for-the-texture-artist
+	  http://renderhjs.net/textools/3dsMax.html
     
 MAKE IT GREY!: =
-  http://www.scriptspot.com/3ds-max/scripts/make-it-gray-please
-  Creator: Hosein Afshar
+  Creator: Hosein Afshar : http://www.scriptspot.com/3ds-max/scripts/make-it-gray-please
+  
