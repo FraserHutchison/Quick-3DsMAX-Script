@@ -17,8 +17,7 @@ Initial Creation Date = 19/04/2020
 
 ---------------------------------------------------------------------------------------------------------------------
 
-!!!![ALWAYS make sure there is no other QuickTools macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! There can only be 1
-
+	!!!![ALWAYS make sure there is only 1 QuickTools macro under> \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! 
 ---------------------------------------------------------------------------------------------------------------------
 HOW TO INSTALL:
 
