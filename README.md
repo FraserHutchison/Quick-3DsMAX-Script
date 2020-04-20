@@ -4,6 +4,7 @@ You only need Quick!_V1 if you just want the Quick! (QuickTools) 3DS MAX script
 ![](Images/Quick_v1_Showcase.jpg)
 
 Quick! is a collection of scripts for 3DS MAX that centres around reducing the amount of clicks needed for repetitive tasks.
+(Please keep in mind that there may be bugs I dont know about so if you find any let know!)
 ---------------------------------------------------------------------------------------------------------------------
 
 Quick! (QuickTools)
@@ -11,6 +12,7 @@ Quick! (QuickTools)
 (Containing scripts made by myself and also other people, to find out more go to the credits menu)
 
 Compiled by Fraser Hutchison
+Email: Fraserjameshutchison@gmail.com
 Version 0.1
 TestedOn: 3DS MAX 2020
 Initial Creation Date = 19/04/2020
@@ -20,6 +22,8 @@ Initial Creation Date = 19/04/2020
 	!!!![ALWAYS make sure there is only 1 QuickTools macro under> \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! 
 ---------------------------------------------------------------------------------------------------------------------
 HOW TO INSTALL:
+
+(If you have not installed Quick! before, skip to step 5!)
 
 1. Make sure 3DS MAX is closed!
 
@@ -33,9 +37,9 @@ HOW TO INSTALL:
 
 6. Go to the KEYBOARD SHORTCUTS menu (I haven't include the exact path as versions differ) 
 
-7. Search for CustomTools Or Custom Scripts and assign a key (I have mine to O )
+7. Search for Quick Or QuickTools and assign a key (I have mine to O )
 
-8. SAVE YOUR SHORCUT (I have mine saved to a file in DOCUMENTS but it can be wherever) 
+8. SAVE YOUR SHORCUT (I have mine saved in DOCUMENTS but it can be wherever) 
 
 9. Click *Your Custom Shortcut* and you're good to go!  
 
@@ -43,6 +47,7 @@ HOW TO INSTALL:
 [ISSUES AND CONTACT INFO:]
 
 Twitter: @HutchisonFraser 
+Email: Fraserjameshutchison@gmail.com
 
 "Feel free to contact me about any issues, however I may not always be able to solve them."
 "If you want to try and fix any issues feel free.
