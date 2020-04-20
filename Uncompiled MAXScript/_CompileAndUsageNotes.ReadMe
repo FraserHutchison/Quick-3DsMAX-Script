@@ -1,0 +1,69 @@
+Offline MAX Script Help:
+https://www.autodesk.com/developer-network/platform-technologies/me-sdk-docs-2020
+
+---------------------------------------------------------------------------------------------------------
+
+HOW TO RUN THE QuickTools_Master.ms SCRIPT
+
+Each script can be run individually (except the RolloutLibrary.ms) by using Ctrl+e to Tools>Evaluate ALL in the MAX Script Editor.
+
+The main exception to this is the QuickTools_Master.ms, To run the script and have the dialog show you must select only the include not the macroscript and do shift+Enter or Tools> Evaluate line/selection
+	
+		(
+		include "RolloutLibrary.ms"
+		)
+
+!!!The keyboard shortcut will not show the updated version as that is now a precompiled script!!!
+
+I know its annoying but I don't know is it MAX Script that says it has to be this way or if its just the way I have set up the scripts.
+---------------------------------------------------------------------------------------------------------
+
+HOW I COMPILE THE SCRIPT INTO 1 SCRIPT: (THE JANK WAY)
+
+The way I compile the final script is a bit janky to be honest and if you know a better solution please let me know!
+
+Because I'm using the *include* construct it is essentially compiling the scripts when you press the keyboard shortcut.
+Asking people to download 20 odd Script files would be ridiculous unless it was a .mzp file which at the moment is proving to be quite hard to make so instead I do it a hacky way.
+
+To get the compiled version this is what I do:
+
+First close down 3DS MAX and navigate to> C:\Users\(Your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros
+
+Next, delete any macros relating to the QuickTools tool, if they're isn't one in there then great.
+
+Open up 3DS MAX and go to Scripting> Run script... and run the QuickTools_Master.ms file
+
+Navigate to> C:\Users\(Your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros and in there should be your new compiled script to use/share. (3DS MAX can be open for this)
+
+---------------------------------------------------------------------------------------------------------
+
+.MZP CREATE FILE NOTES:
+
+I couldn't get these to work but check this website out for a tool that says you can compile using their tool. Tbh I could get it to export an .mzp but max wouldn't run the file or at least it didn't look like it did.
+
+http://www.klaasnienhuis.nl/2012/11/building-mzp-scripts-for-3dsmax/
+https://github.com/klaasnienhuis/mzpBuilder
+
+Make sure to make the code corrections made in the comments on script spot:
+
+http://www.scriptspot.com/3ds-max/scripts/mzp-builder
+
+
+		Submitted by NiK684 on Fri, 2018-01-05 10:22.
+		
+		Replace string 57 From: local
+		Replace string 57
+
+		From:
+		local theIniFile = @"N:\GitHub\mzpBuilder\mzpbuilder_list_demo.ini"
+
+		To:
+		local theIniFile = getFilenamePath (getThisScriptFilename()) + "mzpbuilder_list_demo.ini"
+		
+Best of luck! Let me know if you find a way to get this working or any changes you make to your own version. my contact info is on the GitHub:
+
+https://github.com/FraserHutchison/Quick--3DsMAX-Script.git
+
+Fraser Hutchison
+		
+---------------------------------------------------------------------------------------------------------
