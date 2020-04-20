@@ -1,6 +1,8 @@
 Offline MAX Script Help:
 https://www.autodesk.com/developer-network/platform-technologies/me-sdk-docs-2020
 
+Although the compiled version is a .mcr file is works the same as a .ms file.
+
 ---------------------------------------------------------------------------------------------------------
 
 HOW TO RUN THE QuickTools_Master.ms SCRIPT
@@ -36,6 +38,8 @@ Open up 3DS MAX and go to Scripting> Run script... and run the QuickTools_Master
 Navigate to> C:\Users\(Your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros and in there should be your new compiled script to use/share. (3DS MAX can be open for this)
 
 This new compiled script can be renamed to anything and run like in the HOW TO INSTALL in the main readme file.
+
+Although its a .mcr file is works the same as a .ms file.
 
 ---------------------------------------------------------------------------------------------------------
 
