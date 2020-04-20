@@ -12,9 +12,13 @@ Quick! (QuickTools)
 (Containing scripts made by myself and also other people, to find out more go to the credits menu)
 
 Compiled by Fraser Hutchison
+
 Email: Fraserjameshutchison@gmail.com
+
 Version 0.1
+
 TestedOn: 3DS MAX 2020
+
 Initial Creation Date = 19/04/2020
 
 ---------------------------------------------------------------------------------------------------------------------
