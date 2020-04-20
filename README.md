@@ -46,7 +46,7 @@ HOW TO INSTALL/USE:
 8. SAVE YOUR SHORCUT (I have mine saved in DOCUMENTS but it can be wherever) 
 
 9. Click *Your Custom Shortcut* and you're good to go!  
-	9.a.: To move the UI around it's the small box to the left of the 3DS MAX ICON (this will be changed in future updates)
+	9.A: To move the UI around it's the small box to the left of the 3DS MAX ICON (this will be changed in future updates)
 
 ---------------------------------------------------------------------------------------------------------------------
 [ISSUES AND CONTACT INFO:]
