@@ -1,4 +1,4 @@
---This Scrip Contains all rollouts and include constructs to run all other files
+--This Scrip Contains all rollouts and *include* constructs to run all other files
 (	
 	rollout Quick "Quick!" width:120 height:94
 	(
@@ -166,7 +166,7 @@
 	)
 	
 )
-rdFloater = newrolloutfloater "CustomTools" 140 500
+rdFloater = newrolloutfloater "Quick!" 140 500
 addrollout Quick rdFloater rolledup: true 
 addrollout Pivots rdFloater rolledup: true 
 addrollout Checks rdFloater rolledup: true 
@@ -175,4 +175,4 @@ addrollout Unwrapping rdFloater rolledup: true
 addrollout ExportImport rdFloater rolledup: true 
 addrollout Credits rdFloater rolledup: true 
 
-print "CustomToolsV2 Now Open!"
+print "Quick! Now Open!"

@@ -1,10 +1,9 @@
 ---------------------------------------------------------------------------------------------------------------------
---ALWAYS make sure there is no other CustomTools macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros
+--ALWAYS make sure there is no other Quick!(QuickTools) macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros
 ---------------------------------------------------------------------------------------------------------------------
---CustomTools_V2 
---Version Number: 2.0
+--Quick! (QuickTools) 
+--Version Number: 1.0
 --Name: Fraser Hutchison
--- Twitter: @HutchisonFraser 
 --Feel free to contact me about any issues, however I may not always be able to fix them.
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -19,14 +18,9 @@
 --Tested on Max 2020
 --Creation date: 19/04/2020
 ---------------------------------------------------------------------------------------------------------------------
---BUGS
---1. BatchImport = If you opne BatchImport then close it, you will get an error and the MaxScript Editor will appear
---Solution for now: close the MaxScript Editor and also CustomTools, then you are free to open it again using your cutsom shortcut.
 
---2.Smart Stitch = Sometimes the smart sticth doesnt work the best, I am unsure why. For the most part is works fine.
---Solution: N/A for now
----------------------------------------------------------------------------------------------------------------------
-macroScript CustomTools_V2 category:"CustomScripts"
+--this tool is called first and holds the macro script then is compiles the rollout library where all the rollouts are held.
+macroScript QuickTools category:"Quick!"
 (
 include "RolloutLibrary.ms"
 )
