@@ -25,7 +25,7 @@ Initial Creation Date = 19/04/2020
 
 	!!!![ALWAYS make sure there is only 1 QuickTools macro under> \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! 
 ---------------------------------------------------------------------------------------------------------------------
-HOW TO INSTALL:
+HOW TO INSTALL/USE:
 
 (If you have not installed Quick! before, skip to step 5!)
 
@@ -37,7 +37,7 @@ HOW TO INSTALL:
 
 4. Open 3DS MAX
 
-5. Scripting > Run Script... (Find where you have downloaded the CustomToolsScript)
+5. Scripting > Run Script... (Find where you have downloaded the Quick! (compiled)Script)
 
 6. Go to the KEYBOARD SHORTCUTS menu (I haven't include the exact path as versions differ) 
 
@@ -46,6 +46,7 @@ HOW TO INSTALL:
 8. SAVE YOUR SHORCUT (I have mine saved in DOCUMENTS but it can be wherever) 
 
 9. Click *Your Custom Shortcut* and you're good to go!  
+	9.A: To move the UI around it's the small box to the left of the 3DS MAX ICON (this will be changed in future updates)
 
 ---------------------------------------------------------------------------------------------------------------------
 [ISSUES AND CONTACT INFO:]
