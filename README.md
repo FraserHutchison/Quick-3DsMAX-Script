@@ -37,7 +37,7 @@ HOW TO INSTALL/USE:
 
 4. Open 3DS MAX
 
-5. Scripting > Run Script... (Find where you have downloaded the CustomToolsScript)
+5. Scripting > Run Script... (Find where you have downloaded the Quick! (compiled)Script)
 
 6. Go to the KEYBOARD SHORTCUTS menu (I haven't include the exact path as versions differ) 
 
