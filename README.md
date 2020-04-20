@@ -11,7 +11,7 @@ Quick! is a collection of scripts for 3DS MAX that centres around reducing the a
 
 (Containing scripts made by myself and also other people, to find out more go to the credits menu)
 
-Compiled by Fraser Hutchison
+Compiled/Created by Fraser Hutchison
 
 Email: Fraserjameshutchison@gmail.com
 
