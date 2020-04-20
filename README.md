@@ -15,7 +15,7 @@ Initial Creation Date = 19/04/2020
 
 ---------------------------------------------------------------------------------------------------------------------
 
-!!!![ALWAYS make sure there is no other QuickTools macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!!
+!!!![ALWAYS make sure there is no other QuickTools macro under \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! There can only be 1
 
 ---------------------------------------------------------------------------------------------------------------------
 HOW TO INSTALL:
@@ -46,7 +46,8 @@ Twitter: @HutchisonFraser
 "Feel free to contact me about any issues, however I may not always be able to solve them."
 "If you want to try and fix any issues feel free.
 
-NOTE: "This is a compiled version, the original version is split into many seperate scripts to make it easier for development and makes use of the *include* contruct. I tried to make a .mzp version however it has proven to be a real pain and for now I have not bothered as teh compiled one works just fine."
+NOTE: "This is a compiled version, the original version is split into many seperate scripts to make it easier for development and makes use of the *include* contruct. I tried to make a .mzp version however it has proven to be a real pain and for now I have not bothered as teh compiled one works just fine. PLEASE READ the .ReadMe in the uncompiled scripts if you are going to use them"
+
 
 ---------------------------------------------------------------------------------------------------------------------
 [BUGS]
