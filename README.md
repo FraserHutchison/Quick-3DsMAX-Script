@@ -4,7 +4,7 @@ You only need Quick!_V1 if you just want the Quick! (QuickTools) 3DS MAX script
 ![](Images/Quick_v1_Showcase.jpg)
 
 Quick! is a collection of scripts for 3DS MAX that centres around reducing the amount of clicks needed for repetitive tasks.
-(Please keep in mind that there may be bugs I dont know about so if you find any let know!)
+(Please keep in mind that there may be bugs I dont know about so if you find any let me know!)
 ---------------------------------------------------------------------------------------------------------------------
 
 [Quick! (QuickTools)]
@@ -70,6 +70,9 @@ NOTE: "This is a compiled version, the original version is split into many separ
 --Solution: N/A for now
 
 	3.How to move UI = Not so much a bug but to move the UI you have to click the small gap next to the 3DS MAX button. Im gonna try and fix this in another update.
+--Solution: N/A for now
+
+	4.Custom Batch Export doesnt currently work!
 --Solution: N/A for now
 
 ---------------------------------------------------------------------------------------------------------------------
