@@ -3,3 +3,5 @@ Future Updates:
 		Make UI scalable to make it easier to move the dialog.
 		
 		Attempt to Fix V.1 Bugs 
+		
+		Set Material ID to 1 when "Make It Grey!"
