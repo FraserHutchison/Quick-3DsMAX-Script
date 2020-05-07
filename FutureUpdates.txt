@@ -12,5 +12,6 @@ Future Updates:
 		
 		Angle Snaps settings (At top)
 		
+		Attach / collapse button
 		
 	
