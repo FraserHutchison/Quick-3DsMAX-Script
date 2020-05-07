@@ -10,5 +10,7 @@ Future Updates:
 		
 		Update Credits Rollout
 		
+		Angle Snaps settings (At top)
+		
 		
 	
