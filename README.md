@@ -24,10 +24,13 @@ Initial Creation Date = 19/04/2020
 ---------------------------------------------------------------------------------------------------------------------
 
 	!!!![ALWAYS make sure there is only 1 QuickTools macro under> \Users\(your user name)\AppData\Local\Autodesk\3dsMax\2020 - 64bit\ENU\usermacros]!!!! 
+	
 ---------------------------------------------------------------------------------------------------------------------
 [HOW TO INSTALL/USE:]
 
 (If you have not installed Quick! before, skip to step 5!)
+
+Download the latest version by going to the GitHub "Tags" panel and download the induvidual .mcr file.
 
 1. Make sure 3DS MAX is closed!
 
@@ -41,9 +44,9 @@ Initial Creation Date = 19/04/2020
 
 6. Go to the KEYBOARD SHORTCUTS menu (I haven't include the exact path as versions differ) 
 
-7. Search for Quick Or QuickTools and assign a key (I have mine to O )
+7. Search for Quick Or QuickTools and assign a key OR add it as a toolbar button (I have mine to O)
 
-8. SAVE YOUR SHORCUT (I have mine saved in DOCUMENTS but it can be wherever) 
+8. SAVE YOUR SHORCUT (I have mine saved in DOCUMENTS but it can be wherever)
 
 9. Click *Your Custom Shortcut* and you're good to go!  
 	9.A: To move the UI around it's the small box to the left of the 3DS MAX ICON (this will be changed in future updates)
