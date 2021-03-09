@@ -72,7 +72,7 @@ NOTE: "This is a compiled version, the original version is split into many separ
 	3.How to move UI = Not so much a bug but to move the UI you have to click the small gap next to the 3DS MAX button. Im gonna try and fix this in another update.
 --Solution: N/A for now
 
-	4.Custom Batch Export doesnt currently work!
+	4.Custom Batch Export doesn't currently work!
 --Solution: N/A for now
 
 ---------------------------------------------------------------------------------------------------------------------

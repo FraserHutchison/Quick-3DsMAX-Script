@@ -141,28 +141,14 @@
 			)
 	)
 	
-	rollout Credits "Credits" width:120 height:208
+	rollout Credits "Credits" width:120 height:248
 	(
-		button 'TT_Button' "Tex Tools" pos:[8,7] width:107 height:26 align:#left
-		button 'CZ_Button' "Chamfer Zone" pos:[8,40] width:107 height:26 align:#left
-		button 'SP_Button' "ScriptSpot" pos:[8,72] width:107 height:26 align:#left
-		groupBox 'grp1' "Created By" pos:[8,104] width:105 height:96 align:#left
-		label 'lbl3' "Fraser Hutchison" pos:[16,128] width:88 height:22 align:#left
-		label 'lbl4' "19/04/2020" pos:[16,152] width:88 height:22 align:#left
-		label 'lbl5' "Max 2020" pos:[16,176] width:88 height:22 align:#left
-		
-		on TT_Button pressed do
-		(
-			messagebox "Tex Tools = Align+Normalize - http://renderhjs.net/textools/3dsMax.html" beep:false 
-			)
-		on CZ_Button pressed do
-		(
-			messagebox "Chamfer Zone = Smart Stitch UV - https://www.youtube.com/watch?v=BbZ7ip-eCcI" beep:false 
-			)
-		on SP_Button pressed do
-		(
-			messagebox "ScriptSpot = http://www.scriptspot.com/ " beep:false 
-			)
+		GroupBox 'grp1' "Created By" pos:[8,10] width:105 height:94 align:#left
+		label 'lbl3' "Fraser Hutchison" pos:[16,32] width:88 height:22 align:#left
+		label 'lbl4' "19/04/2020" pos:[16,56] width:88 height:22 align:#left
+		label 'lbl5' "Max 2020" pos:[16,80] width:88 height:22 align:#left
+		label 'lbl10' "https://github.com/FraserHutchison/Quick-3DsMAX-Script" pos:[16,112] width:88 height:72 align:#left
+		label 'lbl11' "Go to the GitHub Page for more Credits and Information" pos:[16,184] width:88 height:56 align:#left
 	)
 	
 )
