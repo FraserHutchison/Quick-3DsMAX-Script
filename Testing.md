@@ -1,6 +1,10 @@
-- How to create .mzp file
+How to create .mzp file
+
     1. Right click the items wanted (NOT the overall folder) and send to .ZIP (Must be .ZIP)
+   
     2. Rename .ZIP to .mzp
+
+--------------------------------------------------------------------------------------------------------------------
 
 ```
 name "****insert name****"
@@ -15,7 +19,9 @@ run "****filename**** .ms"
 clear temp on MAX exit
 ```
 
-- Example MZP
+--------------------------------------------------------------------------------------------------------------------
+
+Example MZP
 
     ```
     name "Quick!_v2"
