@@ -5,8 +5,9 @@ How to create .mzp file
     2. Rename .ZIP to .mzp
 
 --------------------------------------------------------------------------------------------------------------------
+[Example](Scripts/mzp.run) structure of a .run file for running the initial folder copyiny and drop script.
 
-```MAXScript
+```
 name "*insert name*"
 
 version *insert number (can be float)*
@@ -21,28 +22,22 @@ clear temp on MAX exit
 
 --------------------------------------------------------------------------------------------------------------------
 
-Example .Run file
+Drop Scripts are also used to run files straight away. Find an example [here](Scripts/DropScript.ms)
 
-    ```
-    name "Quick!_v2"
+```MAXScript
+try
+(
+	fileIn "*File Name*"
+--OR
+	fileIn ((pathConfig.GetDir #userScripts)+"\\*File Name*");
 
-    version 2.0
+		
+	MessageBox("Files Installed")
+)
 
-    copy "DropScript.ms" to "$userScripts\Quick!_v2\"
-    copy "AffectPivotOnly.ms" to "$userScripts\Quick!_v2\"
-    copy "AlignUV.ms" to "$userScripts\Quick!_v2\"
-    copy "CentrePivot.ms" to "$userScripts\Quick!_v2\"
-    copy "EditablePoly.ms" to "$userScripts\Quick!_v2\"
-    copy "MakeItDarkGrey.ms" to "$userScripts\Quick!_v2\"
-    copy "MakeItGrey.ms" to "$userScripts\Quick!_v2\"
-    copy "MoveToCentre.ms" to "$userScripts\Quick!_v2\"
-    copy "PivotToBase.ms" to "$userScripts\Quick!_v2\"
-    copy "ResetXForm.ms" to "$userScripts\Quick!_v2\"
-    copy "RolloutLibrary.ms" to "$userScripts\Quick!_v2\"
-    copy "SmoothGroupsByUvShells.ms" to "$userScripts\Quick!_v2\"
-
-    drop "DropScript.ms"
-    run "DropScript.ms"
-
-    clear temp on MAX exit
-    ```
+catch
+(
+	MessageBox("Something went wrong...")
+	print "Could not find *File Name*"
+)
+```
