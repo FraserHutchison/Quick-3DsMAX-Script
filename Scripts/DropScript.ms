@@ -1,8 +1,13 @@
 -- Delete Old Version Quick!_V1.mcr"
-OldScript = GetDir #userScripts + "\Quick!_V1.mcr";
-deletefile OldScript
-OldMacro = GetDir #userMacros + "\Quick!_V1.mcr";
-deletefile OldMacro
+OldScript1 = GetDir #userScripts + "\Quick!_V1.mcr";
+deletefile OldScript1
+OldScript2 = GetDir #userScripts + "\Quick_-QuickTools.mcr";
+deletefile OldScript2
+
+OldMacro1 = GetDir #userMacros + "\Quick!_V1.mcr";
+deletefile OldMacro1
+OldMacro2 = GetDir #userMacros + "\Quick_-QuickTools.mcr";
+deletefile OldMacro2
 
 try
 (
