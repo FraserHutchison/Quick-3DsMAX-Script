@@ -1,5 +1,5 @@
 # Quick-3DsMAX-Script
-You only need Quick!_V1 if you just want the Quick! (QuickTools) 3DS MAX script
+Drag and drop the .mzp file into the 3DS Max viewport to install.
 
 ![](Misc/Images/Quick_v2_Showcase.jpg)
 
@@ -9,11 +9,16 @@ Quick! is a collection of scripts for 3DS MAX that centres around reducing the a
 
 [Quick! (QuickTools)]
 
-Compiled/Created by Fraser Hutchison
-
 Version 2.0
 
 TestedOn: 3DS MAX 2019/20
+
+---------------------------------------------------------------------------------------------------------------------
+[HOW TO INSTALL:]
+
+1. Drag and drop the .mzp file into the 3DS Max viewport to install.
+
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
