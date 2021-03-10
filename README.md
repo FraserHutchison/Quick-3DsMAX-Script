@@ -1,9 +1,6 @@
 # Quick-3DsMAX-Script
-Drag and drop the .mzp file into the 3DS Max viewport to install.
 
 ![](Misc/Images/Quick_v2_Showcase.jpg)
-
-Quick! is a collection of scripts for 3DS MAX that centres around reducing the amount of clicks needed for repetitive tasks.
 
 ---------------------------------------------------------------------------------------------------------------------
 
