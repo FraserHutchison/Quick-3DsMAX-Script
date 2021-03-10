@@ -11,7 +11,7 @@ TestedOn: 3DS MAX 2019/20
 ---------------------------------------------------------------------------------------------------------------------
 [HOW TO INSTALL:]
 
-![](Quick_v2.mzp)
+[here](Quick_v2.mzp)
 
 1. Find the lastest release (right side of screen) and download the Quick.MZP.
 
