@@ -7,8 +7,6 @@ Quick! is a collection of scripts for 3DS MAX that centres around reducing the a
 
 ---------------------------------------------------------------------------------------------------------------------
 
-[Quick! (QuickTools)]
-
 Version 2.0
 
 TestedOn: 3DS MAX 2019/20
