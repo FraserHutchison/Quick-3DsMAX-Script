@@ -11,7 +11,6 @@ TestedOn: 3DS MAX 2019/20
 ---------------------------------------------------------------------------------------------------------------------
 [HOW TO INSTALL:]
 
-
 1. Download the .MZP [here](Quick_v2.mzp)
 
 2. Drag and drop the .mzp file into the 3DS Max viewport to install.
