@@ -6,22 +6,22 @@ How to create .mzp file
 
 --------------------------------------------------------------------------------------------------------------------
 
-```
-name "****insert name****"
+```MAXScript
+name "*insert name*"
 
-version ****insert number (can be float)****
+version *insert number (can be float)*
 
-copy "****filename****.ms" to "$userScripts\****Custom folder name****"
+copy "*filename*.ms" to "$userScripts\*Custom folder name*"
 
-drop "****filename**** .ms"
-run "****filename**** .ms"
+drop "*filename* .ms"
+run "*filename* .ms"
 
 clear temp on MAX exit
 ```
 
 --------------------------------------------------------------------------------------------------------------------
 
-Example MZP
+Example .Run file
 
     ```
     name "Quick!_v2"
