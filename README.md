@@ -1,7 +1,7 @@
 # Quick-3DsMAX-Script
 You only need Quick!_V1 if you just want the Quick! (QuickTools) 3DS MAX script
 
-![](Images/Quick_v1_Showcase.jpg)
+![](Misc/Images/Quick_v2_Showcase.jpg)
 
 Quick! is a collection of scripts for 3DS MAX that centres around reducing the amount of clicks needed for repetitive tasks.
 
