@@ -1,6 +1,4 @@
-
-
-rollout QuickV2Rollout "Quick V.2!" width:112 height:312
+rollout QuickV2Rollout "Quick! v.2" width:112 height:312
 (
 	
 	button 'grey_btn' "Grey" pos:[8,8] width:48 height:40 align:#left
@@ -73,5 +71,5 @@ rollout QuickV2Rollout "Quick V.2!" width:112 height:312
 )
 createdialog QuickV2Rollout width:112 height:312 style:#(#style_titlebar, #style_sysmenu, #style_toolwindow)
 
-print "Quick V.2! Now Open!"
+print "Quick! v.2 Now Open!"
 
